@@ -4,7 +4,8 @@ A tool to export the worklogs from a [Kit Log Pro](http://www.kitlog.com/) exper
 
 ## Usage
 
-![User Interface Screenshot](doc/KlpToJekyll.jpg)
+![User Interface Screenshot](doc/KlpToJekyll.JPG)
+
 The UI requires only 3 pieces of information:
 1.  The location of the KitLog database
 2.  The location of the Jekyll site.  Posts will be place in the _posts directory and images in the assets/images directory.
